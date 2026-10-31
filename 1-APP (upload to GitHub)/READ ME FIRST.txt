@@ -1,0 +1,17 @@
+1-APP: the Habibi Gains app code
+================================
+habibi-gains.zip = the whole app. This is the ONLY file that goes to GitHub.
+
+What's new in this version
+- Weekly calorie bank on Today (7 dots + "This week: eaten / budget / left / X of 7 days")
+- Food search shows Recently logged + Popular in the UAE before you type
+- Fasting tracker (Today > Fasting timer): presets, live ring, body timeline with evidence tags, 7-day graph
+- New Recipes tab (replaces Train): 37 Habibi recipes, shared recipes with "Cooked it", share switch on your own recipes
+- Running, GPS, run clubs and side quests removed (no location permission any more)
+- Database already updated for recipe sharing (done on Supabase, nothing for you to do)
+
+How to upload
+1. Open your Habibigains repo on GitHub.
+2. Add file > Upload files > drag in habibi-gains.zip (same name replaces the old one).
+3. Commit changes.
+Then go to folder 2-SIDELOADING.
